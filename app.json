@@ -1,4 +1,12 @@
 {
+    "name": "Warp+ // logger",
+    "keywords": [
+      "telegram",
+      "bot",
+      "heroku"
+    ],
+    "repository": "https://github.com/anilchauhanxda/warp-plus-cloudflare",
+    "website": "https://meanii.me",
     "addons": [],
     "buildpacks": [
       {
